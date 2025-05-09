@@ -1,6 +1,1 @@
-Repo ini dibuat untuk memenuhi Tugas besar perkuliahan Kecerdassan Buatan.
-
-Program yang dibuat merupakan program klasifikasi untuk Daun Jeruk dan Daun Kemangi.
-Dimana seluruh sample diambil menggunakan kamera iPhone 12 pro.
-
-Program ditulis menggunakan bahasa pemrograman Phtyon.
+Repository ini berisi proyek klasifikasi daun jeruk dan daun kemangi menggunakan machine learning. Dataset dikumpulkan secara mandiri dengan cara memotret daun menggunakan kamera iPhone 12 Pro untuk memastikan kualitas gambar yang tinggi. Proses pelatihan dan evaluasi model dilakukan menggunakan bahasa Python melalui Jupyter Notebook. Proyek ini bertujuan untuk mengidentifikasi dan membedakan kedua jenis daun berdasarkan citra dengan akurasi yang optimal.
